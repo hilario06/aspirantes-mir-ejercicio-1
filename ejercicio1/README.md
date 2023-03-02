@@ -13,3 +13,7 @@
 10) copiado
 11) git add .
     git commit -m "Agrega solución primer ejercicio"
+12) gh repo create
+    git branch -M main
+    git remote add origin https://github.com/hilario06/aspirantes-mir-ejercicio-1.git
+     git remote -v
